@@ -10,7 +10,8 @@ hierarchial clustering) to a dataset.
   regressions and feature selection including linear regression, regularization (recusrvie feature elimination and elastic net),
   support vector, ensemble and bagging methods.
   To pick the best method by looking at the lowest overall RMSE and minimized gap between test and train RMSE.
-  
-This is not the end result there are steps that are not in the file including the data collected,
-running Autoregrssive distributed lag model (ARDL)for comparison as well as re-running the final chosen model with only selected variables
+  This is not the end result there are steps that are not in the file including the data collected,
+  running Autoregrssive distributed lag model (ARDL)for comparison as well as re-running the final chosen model with only selected variables
+ 
+3. TS: Time series exercises where differnet but very common models are fitted and then forecasted (out-sample). And deep learning LSTM 
   
