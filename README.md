@@ -13,5 +13,5 @@ hierarchial clustering) to a dataset.
   This is not the end result there are steps that are not in the file including the data collected,
   running Autoregrssive distributed lag model (ARDL)for comparison as well as re-running the final chosen model with only selected variables
  
-3. TS: Time series exercises where differnet but very common models are fitted and then forecasted (out-sample). And deep learning LSTM 
+3. TS: Time series exercises where different but very common models are fitted and then forecasted (out-sample). And deep learning LSTM 
   
